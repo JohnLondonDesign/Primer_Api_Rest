@@ -1,0 +1,33 @@
+{
+ "nombre": "Pedro",
+ "apellido": "Lopez",
+ "cedula": 1021220,
+ "telefono": 3148568801,
+ "pais": "Colombia",
+ "ciudad": "Pereira",
+ "direccion": "Cra 12 # 10 - 9",
+ "fecha": "2024-05-18"
+}
+
+
+{
+ "nombre": "Juan",
+ "apellido": "Arango",
+ "cedula": 248568,
+ "telefono": 856985,
+ "pais": "Colombia",
+ "ciudad": "Manizales",
+ "direccion": "Cra 1 # 10 - 9",
+ "fecha": "2024-05-18"
+}
+
+{
+ "nombre": "Laura",
+ "apellido": "londoño",
+ "cedula": 3256458,
+ "telefono": 311254523,
+ "pais": "Colombia",
+ "ciudad": "bogota",
+ "direccion": "Cra 18 # 19 - 9",
+ "fecha": "2024-05-17"
+}
